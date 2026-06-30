@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nama_negara": "Iran",
-    "gambar_kucing": "images/persia.jpg",
+    "gambar_kucing": "lib/images/persia.png",
     "nama_ras": "Persia",
     "asal_negara": "Iran",
     "warna_bulu": "Putih",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "nama_negara": "Turki",
-    "gambar_kucing": "images/anggora.jpg",
+    "gambar_kucing": "lib/images/anggora.png",
     "nama_ras": "Anggora",
     "asal_negara": "Turki",
     "warna_bulu": "Putih",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "nama_negara": "Thailand",
-    "gambar_kucing": "images/siam.jpg",
+    "gambar_kucing": "lib/images/siam.png",
     "nama_ras": "Siam",
     "asal_negara": "Thailand",
     "warna_bulu": "Krem dengan titik cokelat",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "images/mainecoon.jpg",
+    "gambar_kucing": "lib/images/maine coon.png",
     "nama_ras": "Maine Coon",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Beragam",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "nama_negara": "Inggris",
-    "gambar_kucing": "images/british_shorthair.jpg",
+    "gambar_kucing": "lib/images/british shorthair.png",
     "nama_ras": "British Shorthair",
     "asal_negara": "Inggris",
     "warna_bulu": "Abu-abu",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "nama_negara": "Skotlandia",
-    "gambar_kucing": "images/scottish_fold.jpg",
+    "gambar_kucing": "lib/images/scottish fold.png",
     "nama_ras": "Scottish Fold",
     "asal_negara": "Skotlandia",
     "warna_bulu": "Beragam",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "images/ragdoll.jpg",
+    "gambar_kucing": "lib/images/ragdoll.png",
     "nama_ras": "Ragdoll",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Putih krem",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "images/bengal.jpg",
+    "gambar_kucing": "lib/images/bengal.png",
     "nama_ras": "Bengal",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Cokelat tutul",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "nama_negara": "Rusia",
-    "gambar_kucing": "images/russian_blue.jpg",
+    "gambar_kucing": "lib/images/russian blue.png",
     "nama_ras": "Russian Blue",
     "asal_negara": "Rusia",
     "warna_bulu": "Abu-abu kebiruan",
