@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nama_negara": "Iran",
+    "gambar_kucing": "images/persia.jpg",
+    "nama_ras": "Persia",
+    "asal_negara": "Iran",
+    "warna_bulu": "Putih",
+    "umur_rata_rata": "12-17 tahun",
+    "deskripsi": "Kucing Persia merupakan salah satu ras kucing tertua di dunia yang berasal dari wilayah Persia lama (sekarang Iran). Ras ini terkenal dengan bulunya yang panjang dan lebat, wajah yang datar, mata bulat besar, serta sifatnya yang tenang dan penyayang. Persia sangat cocok dipelihara di dalam rumah karena memiliki temperamen yang lembut, namun membutuhkan perawatan bulu secara rutin agar tetap sehat dan tidak kusut."
+  },
+  {
+    "id": 2,
+    "nama_negara": "Turki",
+    "gambar_kucing": "images/anggora.jpg",
+    "nama_ras": "Anggora",
+    "asal_negara": "Turki",
+    "warna_bulu": "Putih",
+    "umur_rata_rata": "12-18 tahun",
+    "deskripsi": "Kucing Anggora berasal dari Ankara, Turki, dan dikenal sebagai salah satu ras kucing alami tertua. Ras ini memiliki tubuh ramping, bulu halus yang panjang, serta ekor yang lebat. Anggora terkenal sangat aktif, cerdas, mudah bergaul, dan senang bermain dengan pemiliknya."
+  },
+  {
+    "id": 3,
+    "nama_negara": "Thailand",
+    "gambar_kucing": "images/siam.jpg",
+    "nama_ras": "Siam",
+    "asal_negara": "Thailand",
+    "warna_bulu": "Krem dengan titik cokelat",
+    "umur_rata_rata": "10-15 tahun",
+    "deskripsi": "Kucing Siam berasal dari Thailand dan merupakan salah satu ras paling populer di dunia. Siam memiliki tubuh ramping, mata biru cerah, serta pola warna point yang khas. Ras ini terkenal sangat vokal, cerdas, aktif, dan memiliki ikatan yang kuat dengan pemiliknya."
+  },
+  {
+    "id": 4,
+    "nama_negara": "Amerika Serikat",
+    "gambar_kucing": "images/mainecoon.jpg",
+    "nama_ras": "Maine Coon",
+    "asal_negara": "Amerika Serikat",
+    "warna_bulu": "Beragam",
+    "umur_rata_rata": "12-15 tahun",
+    "deskripsi": "Maine Coon merupakan salah satu ras kucing terbesar di dunia. Ras ini memiliki tubuh besar, bulu tebal, dan ekor yang panjang. Meskipun berukuran besar, Maine Coon dikenal sangat ramah, lembut, dan sering dijuluki sebagai gentle giant."
+  },
+  {
+    "id": 5,
+    "nama_negara": "Inggris",
+    "gambar_kucing": "images/british_shorthair.jpg",
+    "nama_ras": "British Shorthair",
+    "asal_negara": "Inggris",
+    "warna_bulu": "Abu-abu",
+    "umur_rata_rata": "12-20 tahun",
+    "deskripsi": "British Shorthair memiliki tubuh kekar, wajah bulat, pipi chubby, dan bulu pendek yang sangat tebal. Ras ini terkenal memiliki sifat tenang, mandiri, serta mudah beradaptasi dengan lingkungan keluarga."
+  },
+  {
+    "id": 6,
+    "nama_negara": "Skotlandia",
+    "gambar_kucing": "images/scottish_fold.jpg",
+    "nama_ras": "Scottish Fold",
+    "asal_negara": "Skotlandia",
+    "warna_bulu": "Beragam",
+    "umur_rata_rata": "11-15 tahun",
+    "deskripsi": "Scottish Fold terkenal karena telinganya yang melipat ke depan akibat mutasi genetik alami. Ras ini memiliki wajah bulat yang menggemaskan, sifat lembut, penyayang, dan sangat suka berada di dekat pemiliknya."
+  },
+  {
+    "id": 7,
+    "nama_negara": "Amerika Serikat",
+    "gambar_kucing": "images/ragdoll.jpg",
+    "nama_ras": "Ragdoll",
+    "asal_negara": "Amerika Serikat",
+    "warna_bulu": "Putih krem",
+    "umur_rata_rata": "12-17 tahun",
+    "deskripsi": "Ragdoll merupakan ras kucing yang terkenal sangat jinak dan santai. Saat digendong, tubuhnya akan terasa rileks seperti boneka kain, sehingga dinamakan Ragdoll. Ras ini memiliki mata biru yang indah dan bulu semi panjang yang lembut."
+  },
+  {
+    "id": 8,
+    "nama_negara": "Amerika Serikat",
+    "gambar_kucing": "images/bengal.jpg",
+    "nama_ras": "Bengal",
+    "asal_negara": "Amerika Serikat",
+    "warna_bulu": "Cokelat tutul",
+    "umur_rata_rata": "12-16 tahun",
+    "deskripsi": "Bengal merupakan hasil persilangan antara kucing domestik dengan Asian Leopard Cat. Ras ini memiliki motif bulu menyerupai macan tutul, sangat aktif, energik, cerdas, dan menyukai aktivitas memanjat maupun bermain air."
+  },
+  {
+    "id": 9,
+    "nama_negara": "Rusia",
+    "gambar_kucing": "images/russian_blue.jpg",
+    "nama_ras": "Russian Blue",
+    "asal_negara": "Rusia",
+    "warna_bulu": "Abu-abu kebiruan",
+    "umur_rata_rata": "15-20 tahun",
+    "deskripsi": "Russian Blue memiliki bulu pendek berwarna abu-abu kebiruan dengan mata hijau cerah yang sangat khas. Ras ini terkenal pendiam, lembut, cerdas, dan biasanya hanya dekat dengan orang-orang yang dikenalnya."
+  },
+  {
+    "id": 10,
+    "nama_negara": "Mesir",
+    "gambar_kucing": "images/egyptian_mau.jpg",
+    "nama_ras": "Egyptian Mau",
+    "asal_negara": "Mesir",
+    "warna_bulu": "Perak bertotol",
+    "umur_rata_rata": "13-16 tahun",
+    "deskripsi": "Egyptian Mau merupakan salah satu ras kucing alami tertua di dunia. Ras ini memiliki corak tutul alami yang unik serta dikenal sebagai salah satu kucing domestik tercepat. Egyptian Mau sangat aktif, cerdas, dan memiliki naluri berburu yang tinggi."
+  }
+]
