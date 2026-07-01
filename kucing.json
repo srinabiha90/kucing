@@ -12,7 +12,7 @@
   {
     "id": 2,
     "nama_negara": "Turki",
-    "gambar_kucing": "lib/images/anggora.png",
+    "gambar_kucing": "anggora.png",
     "nama_ras": "Anggora",
     "asal_negara": "Turki",
     "warna_bulu": "Putih",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "nama_negara": "Thailand",
-    "gambar_kucing": "lib/images/siam.png",
+    "gambar_kucing": "siam.png",
     "nama_ras": "Siam",
     "asal_negara": "Thailand",
     "warna_bulu": "Krem dengan titik cokelat",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "lib/images/maine coon.png",
+    "gambar_kucing": "maine_coon.png",
     "nama_ras": "Maine Coon",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Beragam",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "nama_negara": "Inggris",
-    "gambar_kucing": "lib/images/british shorthair.png",
+    "gambar_kucing": "british_shorthair.png",
     "nama_ras": "British Shorthair",
     "asal_negara": "Inggris",
     "warna_bulu": "Abu-abu",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "nama_negara": "Skotlandia",
-    "gambar_kucing": "lib/images/scottish fold.png",
+    "gambar_kucing": "scottish_fold.png",
     "nama_ras": "Scottish Fold",
     "asal_negara": "Skotlandia",
     "warna_bulu": "Beragam",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "lib/images/ragdoll.png",
+    "gambar_kucing": "ragdoll.png",
     "nama_ras": "Ragdoll",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Putih krem",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "nama_negara": "Amerika Serikat",
-    "gambar_kucing": "lib/images/bengal.png",
+    "gambar_kucing": "bengal.png",
     "nama_ras": "Bengal",
     "asal_negara": "Amerika Serikat",
     "warna_bulu": "Cokelat tutul",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "nama_negara": "Rusia",
-    "gambar_kucing": "lib/images/rusian blue.png",
+    "gambar_kucing": "russian_blue.png",
     "nama_ras": "Russian Blue",
     "asal_negara": "Rusia",
     "warna_bulu": "Abu-abu kebiruan",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "nama_negara": "Mesir",
-    "gambar_kucing": "lib/images/egyptian_mau_mesir.png",
+    "gambar_kucing": "egyptian_mau.png",
     "nama_ras": "Egyptian Mau",
     "asal_negara": "Mesir",
     "warna_bulu": "Perak bertotol",
